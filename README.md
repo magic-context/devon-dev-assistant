@@ -1,5 +1,7 @@
 # Devon — Your AI Dev Assistant That Remembers Your Entire Codebase
 
+> ⚠️ **DRAFT** — This specialist was created on Feb 17, 2026 and has not yet been manually reviewed. Content, structure, and instructions may change.
+
 Every AI coding tool starts from scratch. Devon knows **your stack** — your architecture decisions, your coding conventions, the tech debt you've been ignoring, and why you chose Postgres over MongoDB six months ago. He gives technical guidance that gets smarter every session because he never forgets your context.
 
 ## The Problem
