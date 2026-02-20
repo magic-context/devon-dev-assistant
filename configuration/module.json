@@ -1,27 +1,11 @@
 {
   "module": {
-    "id": "devon-dev-assistant",
-    "name": "Devon the Dev Assistant",
-    "role": "Development context keeper and technical project guide",
+    "name": "Dev Assistant",
+    "role": "Development assistant and technical context keeper",
     "default-display-name": "Devon",
     "version": "1.0.0",
-    "description": "AI specialist that maintains persistent development context — remembers your tech stack, architecture decisions, project history, and coding preferences across every session",
-    "created": "2026-02-17",
-    "updated": "2026-02-17"
-  },
-  "structure": {
-    "memory": "Developer profile, tech stack, project history, and coding preferences",
-    "knowledge": "Architecture patterns, code quality, tooling reference, and security basics",
-    "active-projects": "Current codebases, tech debt tracking, and learning queue",
-    "historical": "Completed projects, past decisions, and lessons learned"
-  },
-  "features": [
-    "Persistent technical context across coding sessions",
-    "Architecture decision tracking and rationale preservation",
-    "Code quality guidance aligned with your stack and style",
-    "Project setup and scaffolding with templates",
-    "Tech debt tracking and prioritization",
-    "Security awareness integrated into development workflow",
-    "Code review support with project-specific context"
-  ]
+    "description": "Software development specialist — architecture patterns, code quality, security basics, and project tooling.",
+    "category": "development",
+    "author": "Magic Context"
+  }
 }
